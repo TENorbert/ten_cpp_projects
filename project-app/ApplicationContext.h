@@ -1,5 +1,5 @@
-#ifndef AQUAGATOR_CONTEXT_H
-#define AQUAGATOR_CONTEXT_H
+#ifndef CONTROLLER_CONTEXT_H
+#define CONTROLLER_CONTEXT_H
 
 #include "GarfunkelData.h"
 #include "GarfunkelIPCData.h"
@@ -68,4 +68,4 @@ namespace Garfunkel
 };
 
 
-#endif
+#endif //CONTROLLER_CONTEXT_H
