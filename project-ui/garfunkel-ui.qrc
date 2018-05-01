@@ -1,0 +1,263 @@
+<RCC>
+    <qresource prefix="/">
+		
+                <file>qml/MainScreen.qml</file>
+        	<file>qml/Help.qml</file>
+                <file>qml/Password.qml</file>
+                <file>qml/serviceAction/SAMainScreen.qml</file>
+                <file>qml/serviceAction/InforScreen.qml</file>
+                <file>qml/systemStatus/SSMainScreen.qml</file>
+                <file>qml/systemStatus/Screen.qml</file>
+                <file>qml/systemStatus/NextPageScreen.qml</file>
+
+                <file>qml/diagnostics/DMainScreen.qml</file>
+                <file>qml/diagnostics/CondorScreen.qml</file>
+                <file>qml/diagnostics/FrontKeysTest.qml</file>
+                <file>qml/diagnostics/LCDTest.qml</file>
+                <file>qml/diagnostics/VMainScreen.qml</file>
+                <file>qml/diagnostics/ValveOneScreen.qml</file>
+                <file>qml/diagnostics/ValveTwoScreen.qml</file>
+                <file>qml/diagnostics/ValveThreeScreen.qml</file>
+                <file>qml/diagnostics/ValveFourScreen.qml</file>
+                <file>qml/diagnostics/ValveFiveScreen.qml</file>
+                <file>qml/diagnostics/ValveSixScreen.qml</file>
+                
+
+
+		<file>qml/views/GarfunkelMainView.qml</file>
+                <file>qml/views/SystemStatusMainView.qml</file>
+                <file>qml/views/ServiceActionMainView.qml</file>
+                <file>qml/views/DiagnosticsView.qml</file>
+                <file>qml/views/ValvesView.qml</file>
+                <file>qml/views/Valve.qml</file>
+                <file>qml/views/ViewGrid.qml</file>
+                <file>qml/views/InnerGridView.qml</file>
+      
+        
+        
+                <file>qml/views/GridMenu.qml</file>
+                <file>qml/views/GridViewMenu.qml</file>
+                <file>qml/views/MenuViewHorizontal.qml</file>
+		<file>qml/views/MenuViewInfo.qml</file>
+		<file>qml/views/GProgressViewInfo.qml</file>
+		<file>qml/views/GProgressViewDate.qml</file>
+		<file>qml/views/GProgressView.qml</file>
+		<file>qml/views/CancelView.qml</file>
+		<file>qml/views/NextPageView.qml</file>
+		<file>qml/views/ColumnTextView.qml</file>
+
+
+
+		<file>qml/views/GarfunkelMainMenuView.qml</file>
+		<file>qml/views/GView.qml</file>
+		<file>qml/views/GMenuSelectionInlineView.qml</file>
+                <file>qml/views/GBreadcrumb.qml</file>
+                <file>qml/views/TitleOPLBreadcrumb.qml</file>
+                <file>qml/views/TextAndImageButton.qml</file>
+                <file>qml/views/TextButton.qml</file>
+                <file>qml/views/QMLTextButton.qml</file>
+                <file>qml/views/GSoftkeysWithIcons.qml</file>
+                <file>qml/views/GSoftkeys.qml</file>
+                <file>qml/views/RArrowButton.qml</file>
+                <file>qml/views/ImageButton.qml</file>
+                <file>qml/views/LArrowButton.qml</file>
+                <file>qml/views/TopToolBar.qml</file>
+       	        <file>qml/views/GMenuView.qml</file>
+       	        <file>qml/views/GStatusBarNoHorizontalBar.qml</file>
+
+       	        <file>qml/views/GStatusBar.qml</file>
+		<file>qml/views/SystemStatusMainScreenView.qml</file>
+                <file>qml/views/SystStatScreenSecondPageView.qml</file>
+                <file>qml/OLD_SCREENS/SystStatSecondPageScreen.qml</file>
+                <file>qml/OLD_SCREENS/ScreenWithArrows.qml</file>
+                <file>qml/OLD_SCREENS/GarfunkelSystemStatusIdleScreen.qml</file>
+		<file>qml/OLD_SCREENS/GarfunkelIdleScreen.qml</file>
+                
+        
+
+		<file>images/R5images/CustomerDetails.png</file>
+		<file>images/R5images/Status.png</file>
+		<file>images/R5images/DownloadDataSmall.png</file>
+		<file>images/R5images/Configure.png</file>
+		<file>images/R5images/ServiceActions.png</file>
+		<file>images/R5images/UserOptions.png</file>
+
+		
+		<file>images/arrows.png</file>
+	        <file>images/arrow_down.png</file>
+        	<file>images/arrow_up.png</file>
+        	<file>images/right_arrow.png</file>
+        	<file>images/left_arrow.png</file>
+        	<file>images/right_large.png</file>
+        	<file>images/left_large.png</file>
+        	<file>images/T-Inv.png</file>
+        	<file>images/T-Nrm.png</file>
+        	<file>images/Lion.png</file>
+        	<file>images/TinyInvert.png</file>
+        	<file>images/TinyNormal.png</file>
+        <file>images/Towels.png</file>
+        <file>images/TowelsColor.png</file>
+        <file>images/ShirtWifi.png</file>
+        <file>images/ShirtHome.png</file>
+        <file>images/TowelsWhite.png</file>
+        <file>images/Alarm_EmptyLiquid.png</file>
+        <file>images/warning.png</file>
+        <file>images/wash.png</file>
+        <file>images/rinse.png</file>
+        <file>images/status.png</file>
+        <file>images/red_caution_sm.png</file>
+        <file>images/Icon_W1.png</file>
+        <file>images/Icon_W2.png</file>
+        <file>images/Icon_W3.png</file>
+        <file>images/Icon_W4.png</file>
+        <file>images/Lock.png</file>
+        <file>images/Key.png</file>
+        <file>images/Delete_DA.png</file>
+        <file>images/Icon_LoadCount.png</file>
+        <file>images/Eye.png</file>
+        <file>images/Activated_YES.png</file>
+        <file>images/Alarm_Telephone.png</file>
+        <file>images/Alarm_SystemError.png</file>
+        <file>images/wht_caution_sm.png</file>
+        <file>images/ecolab_logo.png</file>
+        <file>images/Icon_Flask.png</file>
+        <file>images/status.gif</file>
+        <file>images/wash.gif</file>
+        <file>images/help-icon.png</file>
+        <file>images/back-icon.png</file>
+        <file>images/save-icon.png</file>
+        <file>images/cancel-icon.png</file>
+        <file>images/logout-icon.png</file>
+        <file>images/select.bmp</file>
+        <file>images/select-washer.bmp</file>
+        <file>images/signal-module.bmp</file>
+        <file>images/status.bmp</file>
+        <file>images/summary.bmp</file>
+        <file>images/time-frame.bmp</file>
+        <file>images/pickup-probein.bmp</file>
+        <file>images/pickup-probeout.bmp</file>
+        <file>images/pump.bmp</file>
+        <file>images/reset-all.bmp</file>
+        <file>images/reset.bmp</file>
+        <file>images/select-formula.bmp</file>
+        <file>images/flush.bmp</file>
+        <file>images/home.bmp</file>
+        <file>images/off.bmp</file>
+        <file>images/on.bmp</file>
+        <file>images/No.bmp</file>
+        <file>images/yes.png</file>
+        <file>images/no.png</file>
+        <file>images/modify-formula.bmp</file>
+        <file>images/activate-heavysoil.bmp</file>
+        <file>images/deactivate-heavysoil.bmp</file>
+        <file>images/disable.bmp</file>
+        <file>images/edit-product.bmp</file>
+        <file>images/edit-steps.bmp</file>
+        <file>images/enable.bmp</file>
+        <file>images/Empty.bmp</file>
+        <file>images/queue-icon.png</file>
+        <file>images/more-icon.png</file>
+        <file>images/test-icon.png</file>
+        <file>images/edit-icon.png</file>
+        <file>images/copy-icon.png</file>
+        <file>images/insidecontainer.png</file>
+        <file>images/outsidecontainer.png</file>
+        <file>other_images/OK.png</file>
+
+        <file>images/activate-heavysoil.png</file>
+        <file>images/deactivate-heavysoil.png</file>
+        <file>images/disable.png</file>
+        <file>images/edit-product.png</file>
+        <file>images/edit-steps.png</file>
+        <file>images/enable.png</file>
+        <file>images/flush.png</file>
+        <file>images/home.png</file>
+        <file>images/modify-formula.png</file>
+        <file>images/off.png</file>
+        <file>images/on.png</file>
+        <file>images/pickup-probein.png</file>
+        <file>images/pickup-probeout.png</file>
+        <file>images/pump.png</file>
+        <file>images/reset-all.png</file>
+        <file>images/reset.png</file>
+        <file>images/select-formula.png</file>
+        <file>images/select-washer.png</file>
+        <file>images/select.png</file>
+        <file>images/signal-module.png</file>
+        <file>images/summary.png</file>
+        <file>images/time-frame.png</file>
+        <file>images/prime.png</file>
+        <file>media/alarm.wav</file>
+
+
+		<file>images/washer_extractor.png</file>
+		<file>images/washer_extractor1.png</file>
+		<file>images/info.png</file>
+		<file>images/empty-product-container.png</file>
+		<file>images/laundry-load-counts-1.png</file>
+		<file>images/laundry-load-counts-2.png</file>
+		<file>images/cancel297X297.png</file>
+		<file>images/password.png</file>
+		<file>images/washer_extractor_Q.jpg</file>
+		<file>images/washer_extractor_Q.png</file>
+		<file>images/wash1.png</file>
+		<file>images/wash2.png</file>
+		<file>images/wash3.png</file>
+		<file>images/wash4.png</file>
+		<file>images/prod_flush_error_8port.png</file>
+		<file>images/mach_flush_error_4port.png</file>
+		<file>images/machine_signal_box_comm_error.png</file>
+		<file>images/formula_selection_box_comm_error.png</file>
+		<file>images/io_board_comm_error.png</file>
+		<file>images/powerout.png</file>
+		<file>images/counts-icon.png</file>
+		<file>images/single-arrow-icon.png</file>
+		
+		<file>images/ngc/AdvancedButtonIn.png</file>
+		<file>images/ngc/AdvancedButtonOut.png</file>
+		<file>images/ngc/AlarmResponseIn.png</file>
+		<file>images/ngc/AlarmResponseOut.png</file>
+		<file>images/ngc/BackDim.png</file>
+		<file>images/ngc/BackIn.png</file>
+		<file>images/ngc/BackOut.png</file>
+		<file>images/ngc/BlankButtonIn.png</file>
+		<file>images/ngc/BlankButtonOut.png</file>
+		<file>images/ngc/CancelIn.png</file>
+		<file>images/ngc/CancelOut.png</file>
+		<file>images/ngc/CheckIn.png</file>
+		<file>images/ngc/CheckOut.png</file>
+		<file>images/ngc/ConfigGearSmallIn.png</file>
+		<file>images/ngc/ConfigGearSmallOut.png</file>
+		<file>images/ngc/ControlOverrideIn.png</file>
+		<file>images/ngc/ControlOverrideOut.png</file>
+		<file>images/ngc/Display2x4ButtonDim.png</file>
+		<file>images/ngc/Display2x4ButtonIn.png</file>
+		<file>images/ngc/Display2x4ButtonOut.png</file>
+		<file>images/ngc/GarbageIn.png</file>
+		<file>images/ngc/GarbageOut.png</file>
+		<file>images/ngc/HelpIn.png</file>
+		<file>images/ngc/HelpOut.png</file>
+		<file>images/ngc/HomeDim.png</file>
+		<file>images/ngc/HomeIn.png</file>
+		<file>images/ngc/HomeOut.png</file>
+		<file>images/ngc/SixBigButtonDim.png</file>
+		<file>images/ngc/SixBigButtonIn.png</file>
+		<file>images/ngc/SixBigButtonOut.png</file>
+		<file>images/ngc/WideButtonInGreen.png</file>
+		<file>images/ngc/WideButtonIn.png</file>
+		<file>images/ngc/WideButtonOut.png</file>
+		
+		<file>images/condor/leftBlueArrow.png</file>
+		<file>images/leftBlueArrow.png</file>
+		<file>images/condor/logout.png</file>
+		<file>images/condor/mute.png</file>
+		<file>images/condor/power.png</file>
+		<file>images/condor/home.png</file>
+		<file>images/condor/info.png</file>
+		<file>images/condor/decline.png</file>
+		<file>images/condor/help.png</file>
+		<file>images/condor/accept.png</file>
+		<file>images/condor/backarrow.png</file>
+
+        </qresource>
+</RCC>
